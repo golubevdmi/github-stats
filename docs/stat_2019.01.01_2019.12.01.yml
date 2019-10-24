@@ -1,0 +1,255 @@
+%YAML:1.0
+---
+Period stats: "2019.01.01 - 2019.02.01"
+Tag: ""
+PR open: 23
+PR opened: 17
+PR closed: 7
+PR merged: 4
+Issues open: 68
+Issues opened: 29
+Issues closed: 19
+Stars snapshot: 2226
+Stars per period: 69
+Forks snapshot: 716
+Forks per period: 27
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 23, 68, 2226, 716, -1, -1, 17, 4, 7, 29, 19, 27 ]
+Period stats: "2019.02.01 - 2019.03.01"
+Tag: ""
+PR open: 33
+PR opened: 8
+PR closed: 11
+PR merged: 5
+Issues open: 77
+Issues opened: 24
+Issues closed: 25
+Stars snapshot: 2294
+Stars per period: 71
+Forks snapshot: 743
+Forks per period: 25
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 33, 77, 2294, 743, -1, -1, 8, 5, 11, 24, 25, 25 ]
+Period stats: "2019.03.01 - 2019.04.01"
+Tag: ""
+PR open: 30
+PR opened: 9
+PR closed: 18
+PR merged: 5
+Issues open: 75
+Issues opened: 23
+Issues closed: 20
+Stars snapshot: 2364
+Stars per period: 74
+Forks snapshot: 766
+Forks per period: 30
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 30, 75, 2364, 766, -1, -1, 9, 5, 18, 23, 20, 30 ]
+Period stats: "2019.04.01 - 2019.05.01"
+Tag: ""
+PR open: 21
+PR opened: 9
+PR closed: 18
+PR merged: 5
+Issues open: 78
+Issues opened: 29
+Issues closed: 32
+Stars snapshot: 2433
+Stars per period: 97
+Forks snapshot: 794
+Forks per period: 31
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 21, 78, 2433, 794, -1, -1, 9, 5, 18, 29, 32, 31 ]
+Period stats: "2019.05.01 - 2019.06.01"
+Tag: ""
+PR open: 17
+PR opened: 7
+PR closed: 5
+PR merged: 4
+Issues open: 79
+Issues opened: 28
+Issues closed: 21
+Stars snapshot: 2529
+Stars per period: 56
+Forks snapshot: 823
+Forks per period: 28
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 17, 79, 2529, 823, -1, -1, 7, 4, 5, 28, 21, 28 ]
+Period stats: "2019.06.01 - 2019.07.01"
+Tag: ""
+PR open: 18
+PR opened: 13
+PR closed: 13
+PR merged: 9
+Issues open: 84
+Issues opened: 28
+Issues closed: 32
+Stars snapshot: 2582
+Stars per period: 71
+Forks snapshot: 850
+Forks per period: 27
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 18, 84, 2582, 850, -1, -1, 13, 9, 13, 28, 32, 27 ]
+Period stats: "2019.07.01 - 2019.08.01"
+Tag: ""
+PR open: 17
+PR opened: 17
+PR closed: 18
+PR merged: 10
+Issues open: 79
+Issues opened: 29
+Issues closed: 33
+Stars snapshot: 2652
+Stars per period: 70
+Forks snapshot: 877
+Forks per period: 27
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 17, 79, 2652, 877, -1, -1, 17, 10, 18, 29, 33, 27 ]
+Period stats: "2019.08.01 - 2019.09.01"
+Tag: ""
+PR open: 16
+PR opened: 10
+PR closed: 16
+PR merged: 10
+Issues open: 75
+Issues opened: 25
+Issues closed: 41
+Stars snapshot: 2719
+Stars per period: 63
+Forks snapshot: 901
+Forks per period: 18
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 16, 75, 2719, 901, -1, -1, 10, 10, 16, 25, 41, 18 ]
+Period stats: "2019.09.01 - 2019.10.01"
+Tag: ""
+PR open: 9
+PR opened: 11
+PR closed: 12
+PR merged: 8
+Issues open: 58
+Issues opened: 24
+Issues closed: 27
+Stars snapshot: 2779
+Stars per period: 102
+Forks snapshot: 919
+Forks per period: 25
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 9, 58, 2779, 919, -1, -1, 11, 8, 12, 24, 27, 25 ]
+Period stats: "2019.10.01 - 2019.11.01"
+Tag: ""
+PR open: 9
+PR opened: 1
+PR closed: 0
+PR merged: 0
+Issues open: 55
+Issues opened: 5
+Issues closed: 1
+Stars snapshot: 2879
+Stars per period: 8
+Forks snapshot: 943
+Forks per period: 3
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 9, 55, 2879, 943, -1, -1, 1, 0, 0, 5, 1, 3 ]
+Period stats: "2019.11.01 - 2019.12.01"
+Tag: ""
+PR open: 10
+PR opened: 0
+PR closed: 0
+PR merged: 0
+Issues open: 60
+Issues opened: 0
+Issues closed: 0
+Stars snapshot: 2883
+Stars per period: 0
+Forks snapshot: 945
+Forks per period: 0
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 10, 60, 2883, 945, -1, -1, 0, 0, 0, 0, 0, 0 ]
+Period stats: "2019.12.01 - 2020.01.01"
+Tag: ""
+PR open: 10
+PR opened: 0
+PR closed: 0
+PR merged: 0
+Issues open: 60
+Issues opened: 0
+Issues closed: 0
+Stars snapshot: 2883
+Stars per period: 0
+Forks snapshot: 945
+Forks per period: 0
+Visitors uniques: -1
+Cloners uniques: -1
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 10, 60, 2883, 945, -1, -1, 0, 0, 0, 0, 0, 0 ]
+output_matrix: !!opencv-matrix
+   rows: 12
+   cols: 12
+   dt: i
+   data: [ 23, 68, 2226, 716, -1, -1, 17, 4, 7, 29, 19, 27, 33, 77, 2294,
+       743, -1, -1, 8, 5, 11, 24, 25, 25, 30, 75, 2364, 766, -1, -1, 9,
+       5, 18, 23, 20, 30, 21, 78, 2433, 794, -1, -1, 9, 5, 18, 29, 32,
+       31, 17, 79, 2529, 823, -1, -1, 7, 4, 5, 28, 21, 28, 18, 84, 2582,
+       850, -1, -1, 13, 9, 13, 28, 32, 27, 17, 79, 2652, 877, -1, -1, 17,
+       10, 18, 29, 33, 27, 16, 75, 2719, 901, -1, -1, 10, 10, 16, 25, 41,
+       18, 9, 58, 2779, 919, -1, -1, 11, 8, 12, 24, 27, 25, 9, 55, 2879,
+       943, -1, -1, 1, 0, 0, 5, 1, 3, 10, 60, 2883, 945, -1, -1, 0, 0, 0,
+       0, 0, 0, 10, 60, 2883, 945, -1, -1, 0, 0, 0, 0, 0, 0 ]

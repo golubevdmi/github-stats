@@ -1,0 +1,69 @@
+%YAML:1.0
+---
+Period stats: "2018.04.10 - 2018.06.26"
+Tag: "v1.39_v1.40a3"
+PR open: -5
+PR opened: 22
+PR closed: 12
+PR merged: 9
+Issues open: -13
+Issues opened: 46
+Issues closed: 37
+Stars snapshot: 23
+Stars per period: 101
+Forks snapshot: 13
+Forks per period: 37
+Visitors uniques: 0
+Cloners uniques: 0
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ -5, -13, 23, 13, 0, 0, 22, 9, 12, 46, 37, 37 ]
+Period stats: "2018.04.26 - 2019.07.20"
+Tag: "v1.40a3_v1.43.7"
+PR open: -15
+PR opened: 9
+PR closed: 12
+PR merged: 7
+Issues open: -33
+Issues opened: 28
+Issues closed: 29
+Stars snapshot: 734
+Stars per period: 109
+Forks snapshot: 240
+Forks per period: 49
+Visitors uniques: 0
+Cloners uniques: 0
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ -15, -33, 734, 240, 0, 0, 9, 7, 12, 28, 29, 49 ]
+Period stats: "2019.04.16 - 2019.10.03"
+Tag: "v1.43.7_v1.43.8"
+PR open: 3
+PR opened: -12
+PR closed: -3
+PR merged: -3
+Issues open: 2
+Issues opened: -24
+Issues closed: -7
+Stars snapshot: 221
+Stars per period: -25
+Forks snapshot: 92
+Forks per period: -41
+Visitors uniques: 0
+Cloners uniques: 0
+stat_array: !!opencv-matrix
+   rows: 12
+   cols: 1
+   dt: i
+   data: [ 3, 2, 221, 92, 0, 0, -12, -3, -3, -24, -7, -41 ]
+output_matrix: !!opencv-matrix
+   rows: 3
+   cols: 12
+   dt: i
+   data: [ -5, -13, 23, 13, 0, 0, 22, 9, 12, 46, 37, 37, -15, -33, 734,
+       240, 0, 0, 9, 7, 12, 28, 29, 49, 3, 2, 221, 92, 0, 0, -12, -3, -3,
+       -24, -7, -41 ]
